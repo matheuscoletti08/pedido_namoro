@@ -45,7 +45,7 @@
     box-shadow: 0 0 40px #7e0a7e;
     position: relative;
     z-index: 1; 
-    
+    transition: 0.2s;
   }
 
   .btn_true {
@@ -61,5 +61,5 @@
     box-shadow: 0 0 40px #7e0a7e;
     position: relative;
     z-index: 1; 
-    
+    transition: 0.2s;
   }
